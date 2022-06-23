@@ -26,7 +26,7 @@
 
 ---
 
-### :hammer_and_wrench: Languages :
+### :computer: Languages :
 <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg"  title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
@@ -39,7 +39,7 @@
 
 ---
 
-### :hammer_and_wrench: Frameworks :
+### :screwdriver: Frameworks :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" title="Laravel" alt="Laravel" width="40" height="40"/>&nbsp;
@@ -50,7 +50,7 @@
 
 ---
 
-### :hammer_and_wrench: Databases :
+### :card_file_box: Databases :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>
