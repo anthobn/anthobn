@@ -1,18 +1,20 @@
 <h1 align="center"> Hi there, I'm Anthony <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/></h1>
 <div id="header" align="center">
-<img src="https://media.giphy.com/media/k0ijJhqrUP4T2EvmJ1/giphy.gif" width="100"/>
+<img src="https://media.giphy.com/media/k0ijJhqrUP4T2EvmJ1/giphy.gif" width="235"/>
   
 <div id="badges">
-  <a href="https://www.linkedin.com/in/anthony-barnoin/" target="_blank">
+  <a href="https://www.linkedin.com/in/anthony-barnoin/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 
-  <a href="https://anthobn.fr/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-orange?logo=brave&logoColor=white&style=for-the-badge" alt="Portfolio Badge"/>
+  <a href="https://anthobn.fr/">
+    <img src="https://img.shields.io/badge/Portfolio-red?logo=brave&logoColor=white&style=for-the-badge" alt="Portfolio Badge"/>
   </a>
 </div>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F77704&center=true&vCenter=true&lines=I'm+a+Full-Stack+Developer;JavaScript+%7C+NodeJS+%7C+VueJS+%7C+ReactJS)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F07B3F&center=true&vCenter=true&lines=I'm+a+Full-Stack+Developer;JavaScript+%7C+NodeJS+%7C+VueJS+%7C+ReactJS)](https://git.io/typing-svg)
+  
+<img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" height="300" />
 
 </div>
 
